@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ajahr95/stock-market-real-time/static/css/main.28f6cf86.chunk.css",
+    "main.js": "/ajahr95/stock-market-real-time/static/js/main.9a3e4e14.chunk.js",
+    "main.js.map": "/ajahr95/stock-market-real-time/static/js/main.9a3e4e14.chunk.js.map",
+    "runtime-main.js": "/ajahr95/stock-market-real-time/static/js/runtime-main.a9a1659a.js",
+    "runtime-main.js.map": "/ajahr95/stock-market-real-time/static/js/runtime-main.a9a1659a.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/ajahr95/stock-market-real-time/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.ba902d94.chunk.js": "/ajahr95/stock-market-real-time/static/js/2.ba902d94.chunk.js",
+    "static/js/2.ba902d94.chunk.js.map": "/ajahr95/stock-market-real-time/static/js/2.ba902d94.chunk.js.map",
+    "index.html": "/ajahr95/stock-market-real-time/index.html",
+    "precache-manifest.58e0977320390675079fe04b57fecd8d.js": "/ajahr95/stock-market-real-time/precache-manifest.58e0977320390675079fe04b57fecd8d.js",
+    "service-worker.js": "/ajahr95/stock-market-real-time/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/ajahr95/stock-market-real-time/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.28f6cf86.chunk.css.map": "/ajahr95/stock-market-real-time/static/css/main.28f6cf86.chunk.css.map",
+    "static/js/2.ba902d94.chunk.js.LICENSE.txt": "/ajahr95/stock-market-real-time/static/js/2.ba902d94.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a9a1659a.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.ba902d94.chunk.js",
+    "static/css/main.28f6cf86.chunk.css",
+    "static/js/main.9a3e4e14.chunk.js"
+  ]
+}
